@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body
+{
+    margin: 0px;
+    padding: 0px;
+    font-family: sans-serif;
+}
+.header
+{
+    height: 100vh;
+}
+.logo
+{
+  height: 100;
+  padding: 1px 10px;  
+}
+.icon-bar
+{
+    background: rgba(21, 233, 14, 0.808);
+}
+.navbar-style
+{
+    text-transform: uppercase;
+}
+li a
+{
+    color: rgba(14, 216, 7, 0.904);
+}
+.wrapper-content
+{
+    text-align: center;
+    color: rgb(9, 211, 36);
+    padding-top: 10%;
+    padding-bottom: 20%;
+}
